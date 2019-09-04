@@ -37,6 +37,7 @@ dependencies:
 - bytestring >=0.10.2
 - exceptions >=0.6 && <0.11
 - unliftio-core
+- cassava >=0.5.1.0 && <0.5.1.1
 
 library:
   exposed-modules:

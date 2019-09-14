@@ -6,7 +6,7 @@ category:    System
 author:      Michael Snoyman
 maintainer:  michael@snoyman.com
 license:     MIT
-github:      snoyberg/monad-logger
+# github:      snoyberg/monad-logger
 build-type:  Simple
 cabal-version: >=1.10
 
